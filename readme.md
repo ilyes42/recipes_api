@@ -1,0 +1,1 @@
+This project is an example that shows how to use Jest, Supertest and Mongodb-inmemory-server to test API endpoints without affecting the real database.
